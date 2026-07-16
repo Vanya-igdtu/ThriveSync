@@ -69,7 +69,7 @@ ThriveSync addresses this challenge by leveraging machine learning to analyze us
 
 | Home Screen | Features |
 |-------------|----------|
-| ![](assets/Home_a.png) | ![](assets/Home_b.png) |
+| ![](Assets/Home_a.png) | ![](Assets/Home_b.png) |
 
 ---
 
@@ -79,25 +79,25 @@ ThriveSync addresses this challenge by leveraging machine learning to analyze us
 
 | Question Set 1 | Question Set 2 | Question Set 3 |
 |---------------|---------------|---------------|
-| ![](assets/Assessment_Page_1_a.png) | ![](assets/Assessment_Page_1_b.png) | ![](assets/Assessment_Page_1_c.png) |
+| ![](Assets/Assessment_Page_1_a.png) | ![](Assets/Assessment_Page_1_b.png) | ![](Assets/Assessment_Page_1_c.png) |
 
 #### Page 2
 
 | Question Set 4 | Question Set 5 |
 |---------------|---------------|
-| ![](assets/Assessment_Page_2_a.png) | ![](assets/Assessment_Page_2_b.png) |
+| ![](Assets/Assessment_Page_2_a.png) | ![](Assets/Assessment_Page_2_b.png) |
 
 #### Page 3
 
 | Question Set 6 | Question Set 7 |
 |---------------|---------------|
-| ![](assets/Assessment_Page_3_a.png) | ![](assets/Assessment_Page_3_b.png) |
+| ![](Assets/Assessment_Page_3_a.png) | ![](Assets/Assessment_Page_3_b.png) |
 
 #### Page 4
 
 | Question Set 8 | Question Set 9 |
 |---------------|---------------|
-| ![](assets/Assessment_Page_4_a.png) | ![](assets/Assessment_Page_4_b.png) |
+| ![](Assets/Assessment_Page_4_a.png) | ![](Assets/Assessment_Page_4_b.png) |
 
 ---
 
@@ -105,7 +105,7 @@ ThriveSync addresses this challenge by leveraging machine learning to analyze us
 
 | Burnout Analysis | Wellbeing Score | Recommendations |
 |-----------------|----------------|-----------------|
-| ![](assets/Report_a.png) | ![](assets/Report_b.png) | ![](assets/Report_c.png) |
+| ![](Assets/Report_a.png) | ![](Assets/Report_b.png) | ![](Assets/Report_c.png) |
 
 ---
 
@@ -113,11 +113,11 @@ ThriveSync addresses this challenge by leveraging machine learning to analyze us
 
 | History | Previous Assessment |
 |---------|---------------------|
-| ![](assets/History_a.png) | ![](assets/History_b.png) |
+| ![](Assets/History_a.png) | ![](Assets/History_b.png) |
 
 <center>
 
-![](assets/History_c.png)
+![](Assets/History_c.png)
 
 </center>
 
